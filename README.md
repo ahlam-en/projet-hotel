@@ -35,3 +35,8 @@ Une fois le README mis à jour, voici les prochaines étapes possibles (dis-moi 
 - [ ] Mettre le projet complet sur GitHub
 
 Tu veux qu’on passe à quelle étape maintenant ?
+## 🎬 Vidéo de démonstration
+
+Cliquez sur l’image ci-dessous pour voir la démonstration de l’application sur YouTube :
+
+[![Vidéo de démonstration](https://img.youtube.com/vi/tXyE6MmKtE8/0.jpg)](https://youtu.be/tXyE6MmKtE8)
